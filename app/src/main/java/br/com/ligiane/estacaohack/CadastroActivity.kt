@@ -73,8 +73,6 @@ class CadastroActivity : AppCompatActivity() {
 
                 //Tirando todas as telas do empilhamento
                 finishAffinity()
-
-
             }
 
         }
